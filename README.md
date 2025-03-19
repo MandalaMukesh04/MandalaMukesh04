@@ -3,9 +3,9 @@
 
 - 🌍 Exploring the world from India
 
-- 💻 Check my Resume: [Resume](https://drive.google.com/file/d/1eKWUQdmQOEm9WzUptYXVMUY9NhyYnLO6/view?usp=drive_link) 
+- 💻 Check my Resume : [Resume](https://drive.google.com/file/d/1eKWUQdmQOEm9WzUptYXVMUY9NhyYnLO6/view?usp=drive_link) 
 
-- 🌱 I’m currently learning: **Data Structures and Algorithms**
+- 🌱 I’m currently learning : **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on [Flipkart-Sales Analysis](https://github.com/MandalaMukesh04/Flipkart-sales-Analysis)
 
