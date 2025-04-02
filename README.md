@@ -3,7 +3,7 @@
 
 - 🌍 Exploring the world from India
 
-- 💻 Check my Resume : [Resume](https://drive.google.com/file/d/1eKWUQdmQOEm9WzUptYXVMUY9NhyYnLO6/view?usp=drive_link) 
+- 💻 Check my Resume : [Resume](https://drive.google.com/file/d/1bTFL_3AHODv7NmEgpQ5-WSaQrtFzRcb9/view?usp=drive_link) 
 
 - 🌱 I’m currently learning : **Data Structures and Algorithms**
 
