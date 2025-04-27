@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mandala-mukesh-a1630525a/)
 
+- Visit my <a href="https://mandalamukesh04.github.io/Portfolio/">Portfolio Website</a> for more!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mandala-mukesh-a1630525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mandala-mukesh-a1630525a/" height="30" width="40" /></a>
@@ -39,8 +41,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
 </a>
 </p>
-Visit my <a href="https://mandalamukesh04.github.io/Portfolio/">Portfolio Website</a> for more!
-    <br>
+
+    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandalamukesh04&show_icons=true&locale=en&layout=compact" alt="mandalamukesh04" /></p>
 
