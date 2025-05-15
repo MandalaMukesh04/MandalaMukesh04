@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mukesh Mandala</h1>
+<h1 align="left">Hi 👋, I'm Mukesh Mandala,</h1>
 <h3 align="left">Welcome to my Github profile, I'm a passionate student exploring the world of Data Analysis, eager to dive into statistical analysis, machine learning, and data visualization. My future goal is to become a Data Scientist. I love analyzing various data and creating attractive dashboards that provide deep insights and visually compelling stories.</h3>
 
 - 🌍 Exploring the world from India
