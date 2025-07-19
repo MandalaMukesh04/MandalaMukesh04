@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning : **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [Flipkart-Sales Analysis](https://github.com/MandalaMukesh04/Flipkart-sales-Analysis)
+- 👯 I’m looking to collaborate on [Flipkart-Sales Analysis](https://github.com/MandalaMukesh04/ONLINE-FRAUD-PAYMENT-DETECTION-USING-BALANCED-ML-ALGORITHMS)
 
 - 🤝 I’m looking for help with [Stock-Prediction](https://github.com/MandalaMukesh04/Stock-Prediction)
 
