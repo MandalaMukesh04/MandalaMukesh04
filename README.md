@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mandala-mukesh-a1630525a/)
 
-- Visit my <a href="https://mandalamukesh.vercel.app/">Portfolio Website</a> for more!
+- Visit my <a href="https://mandala-mukesh.lovable.app">Portfolio Website</a> for more!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
